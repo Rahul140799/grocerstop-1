@@ -1,4 +1,4 @@
-# grocerstop
+# GROCERSTOP
 
 ## Description
 An application for the people to comfortably visit any departmental store without worrying about COVID-19. A platform to monitor, control and reduce crowding at all these crowded hotspots.
